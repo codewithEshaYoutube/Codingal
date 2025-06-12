@@ -40,32 +40,49 @@ Welcome to my **Codingal Teaching Portfolio** — I'm Eesha Tariq, a passionate 
 | Pseudocode Writing | Flow control, Indentation |
 | Game-based Challenges | Logic circuits, Code blocks |
 
-### 📊 Assessment & Reinforcement
+---
 
-| Format | Tools |
-|--------|-------|
-| Quizzes | MCQs, Timed Tests |
-| Assignments | Concept-based challenges |
-| Feedback | Real-time analytics, Reviews |
-| Leaderboards | Motivation through gamification |
+## ✨ Highlights
+
+- ✅ Selected as a **Python Instructor** on **Codingal (YC W21)**.
+- ⭐ Maintained an average **4.6/5 student satisfaction rating**.
+- 👩‍🏫 Delivered live, interactive coding classes using **DSA** and **Python** fundamentals.
+- 🎓 Contributed to building foundational problem-solving skills in global K–12 learners.
 
 ---
 
-## 🏫 About Codingal
+## 🖼️ Teaching Snapshots
 
-> **Codingal** is a leading K–12 coding platform backed by **Y Combinator (YC W21)**, aiming to make coding fun and accessible to school students.
+### 📌 Dashboard View
 
-🔗 [Official Site](https://www.codingal.com)  
-🔗 [Teaching Portfolio Repository](https://github.com/codewithEshaYoutube/Codingal)
+<img src="dashboard.png" alt="Codingal Dashboard" width="600"/>
 
 ---
 
-## 📸 Screenshots (To Be Added)
+### 📌 Students' Performance Overview
 
-```bash
-📁 Codingal/
-├── screenshots/
-│   ├── dashboard.png
-│   ├── feedback.png
-│   └── live_class.png
-└── README.md
+<img src="class data.png" alt="Class Performance Data" width="600"/>
+
+---
+
+### 📌 International Students – UAE Spotlight
+
+<img src="UAE STUDENTS.png" alt="UAE Students" width="600"/>
+
+---
+
+### 📌 Feedback & Interaction
+
+<img src="Students.png" alt="Students' Feedback" width="600"/>
+
+---
+
+## 🔗 Connect with Me
+
+- 💼 [LinkedIn – @esha-tariqdev](https://www.linkedin.com/in/esha-tariqdev/)
+- 💻 [GitHub – codewithEshaYoutube](https://github.com/codewithEshaYoutube)
+- 📧 Email: **eshatariq.codingal@gmail.com**
+
+---
+
+> _“Empowering the next generation of coders through logic, creativity, and code.”_ 💡
