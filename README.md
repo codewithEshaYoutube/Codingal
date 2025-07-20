@@ -3,17 +3,15 @@
 Welcome to my **Codingal Teaching Portfolio** — I'm Eesha Tariq, a passionate Tech Trainer and Software Engineer selected as a **Global Instructor at [Codingal](https://www.codingal.com)**, a Y Combinator-funded EdTech platform (YC W21). I teach **Python** and **Logic Building** to K–12 students from across the world.
 
 ---
+### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-## 🌍 Global Teaching Impact
+- 🧠 Delivered **300+ hours** of live coding instruction in Python, AI, and algorithmic thinking.
+- 🌍 Taught **100+ international K–12 students** from across the globe:  
+  🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇮🇳 India 🇲🇺 Mauritius 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇬🇧 UK 🇲🇦 Morocco
+- 🎯 Crafted and led highly engaging, project-based lessons—transforming complex STEM topics into fun, interactive learning.
+- 🌟 Earned a stellar **4.7/5 teaching rating**, based on glowing feedback from students and parents.
+- 🏆 Built a diverse, inclusive learning environment that empowered young minds to code creatively and think critically.
 
-- 👩‍💻 Taught **50+ international students** in a single month.
-- 📊 **Student rating**: ⭐ **4.6/5** based on feedback and performance analytics.
-- 🌐 Taught students from:
-  - 🇺🇸 United States
-  - 🇨🇦 Canada
-  - 🇦🇺 Australia
-  - 🇦🇪 UAE
-  - 🇮🇳 India
 
 ---
 
