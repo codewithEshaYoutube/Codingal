@@ -59,33 +59,33 @@ Through this journey, I gained invaluable personal and professional growth:
 
 ---
 
-## 🖼️ Teaching Snapshots
+## 🖼️ Teaching Snapshots  
 
-### 📌 Dashboard View
-![Dashboard](dashboard.png)
+## 🖼️ Teaching Snapshots  
 
-### 📌 Students' Performance Overview
-![Class Performance](class-data.png)
+## 🖼️ Teaching Portfolio Highlights
 
-### 📌 International Students – UAE Spotlight
-![UAE Students](uae-students.png)
+### 📊 Teaching Dashboard
+![Dashboard](teacher-dashboard.png)
 
-### 📌 International Students – United Kingdom Spotlight
+### 📈 Teacher Performance Overview
+![Performance Overview](teacher-stats.png)
+
+### 🌍 International Students – UAE Spotlight
+![UAE Students](UAE-STUDENTS.png)
+
+### 🌍 International Students – United Kingdom Spotlight
 ![UK Students](student-from-uk.png)
 
-### 📌 International Students – Australia Spotlight
-![Australia Students](student-from-australia.png)
+### 🌍 International Students – Australia Spotlight
+![Australia Students](studnet-from-austrailia.png)
 
-### 📌 International Students – Qatar Spotlight
+### 🌍 International Students – Qatar Spotlight
 ![Qatar Students](student-from-qatar.png)
 
-### 📌 International Students – Sweden Spotlight
+### 🌍 International Students – Sweden Spotlight
 ![Sweden Students](student-from-sweden.png)
 
-### 📌 Feedback & Interaction
-![Students' Feedback](students.png)
-
----
 
 ## 🔗 Connect with Me
 
