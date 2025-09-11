@@ -39,6 +39,40 @@ print("Mean of Marks:", df["Marks"].mean())
 
 print("\nStudents in Math:\n", df[df["Course"] == "Math"])
 
+# regression analysis diabetic patients
+import matplotlib.pyplot as plt
+from sklearn.datasets import load_diabetes
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+
+#1 load data set
+diabetes = load_diabetes()
+#2 linear two varaibles X,Y
+X=diabetes.data[:,[2]] # BMI calculation
+y=diabetes.target # disease progression
+
+#3 Split into train/test
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+#4 Train linear regression
+model=LinearRegression()
+model.fit(X_train, y_train)
+#5 predictions
+y_pred=model.predict(X_test)
+
+#6 evaluation
+print("This is mean  sqaured error :",mean_squared_error(y_test,y_pred))
+print(f"Regression Equation: y = {model.coef_[0]:.2f}x + {model.intercept_:.2f}")
+#7 Showing it  Visualizing it
+plt.scatter(X_test,y_test,color='blue', label="actual")
+plt.scatter(X_test,y_pred,color='blue', label="prediction")
+plt.xlabel("BMI")
+plt.ylabel("Disease progression")
+plt.title("Linear regression on diabetes")
+plt.legend()
+plt.show()
+
 print("\nStudent Count by Course:\n", df["Course"].value_counts())
 
 print("\nCourse with Highest Avg Marks:\n", df.groupby("Course")["Marks"].mean().idxmax())
