@@ -15,7 +15,9 @@ Shaz,Statistics,B,17
 Mary,SocialStudies,A,35
 ,English,A,25
 """
-
+onEvent("id", "click", function( ) {
+  setScreen(aiistorice);
+});
 df = pd.read_csv(StringIO(csv_data))
 print("Raw data:\n", df, "\n")
 
