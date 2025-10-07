@@ -48,3 +48,36 @@ print(orange.color)
 print(orange.taste)
 print(apple.taste)
 
+class Student:
+    def __init__(self, name):
+        self.name = name
+        self.__hours = 0  # hidden property
+
+    def study(self, hrs):
+        self.__hours += hrs
+
+    def progress(self):
+        print(f"{self.name} studied for {self.__hours} hours in total")
+
+
+student1 = Student("Esha")
+student1.study(6)
+student1.study(8)
+student1.progress()
+
+class Student:
+    def __init__(self, name):
+        self.name = name
+        self.__hours = 0   # hidden detail
+
+    def study(self, hrs):
+        self.__hours += hrs
+
+    def progress(self):
+        print(f"{self.name} studied {self.__hours} hours total.")
+
+# Using abstraction
+s1 = Student("Esha")
+s1.study(3)
+s1.study(2)
+s1.progress()
