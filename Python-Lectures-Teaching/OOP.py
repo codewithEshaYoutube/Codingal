@@ -79,5 +79,5 @@ class Student:
 # Using abstraction
 s1 = Student("Esha")
 s1.study(3)
-s1.study(2)
+s1.study(2)  
 s1.progress()
