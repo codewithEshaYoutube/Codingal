@@ -81,3 +81,22 @@ s1 = Student("Esha")
 s1.study(3)
 s1.study(2)  
 s1.progress()
+class Overload():
+  def __init__(self,real,image):
+    self.real=real
+    self.image=image
+  def __add__(self,other):
+    return Overload(self.real+other.real,self.image+other.image)
+  def __str__(self):
+    return f"{self.real}+{self.image}i"
+# making instances (objects)
+
+c1=Overload(3,4)
+c2=Overload(7,8)
+c3=Overload(17,8)
+c4=Overload(7,5)
+c5=Overload(7,98)
+c7=Overload(19,8)
+
+print(c1+c2+c3+c4+c5+c7)
+
