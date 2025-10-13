@@ -100,3 +100,21 @@ c7=Overload(19,8)
 
 print(c1+c2+c3+c4+c5+c7)
 
+class FruitBasket:
+  def __init__(self,apple,banana):
+    self.apple=apple
+    self.banana=banana
+  def __add__(self,other):
+    return FruitBasket(self.apple+other.apple,self.banana+other.banana)
+  def __gt__(self,other):
+    return (self.apple+self.banana)>(other.apple+other.banana)
+  def __str__(self):
+    return f"Apple{self.apple} , Banana{self.banana}"
+    #objects 
+basket1=FruitBasket(7,9)
+basket2=FruitBasket(12,3)
+basket3=FruitBasket(6,8)
+
+print("Apple and bananas in Basket 1 :",basket1," and for Basket 2 :",basket2," basket 3",basket3)
+print("Final Sum for all fruits are ",basket1+basket2+basket3 ,"bigger is ",(basket1 > basket2) and (basket2 > basket3)
+)
