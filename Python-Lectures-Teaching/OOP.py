@@ -1,3 +1,43 @@
+
+import random
+options=["rock","paper","scissor"]
+
+while True:
+  user= input( "choose from rock ,paper and scissor   ").lower()
+  ## two players 
+  # one player random from options    computer
+  comp=random.choice(options)
+  print(f"Comp chose this option  {comp}")
+  if user == comp:
+    print("its a tie")
+  elif (user=="rock" and comp=="scissor") or (user=="paper" and comp=="rock") or (user=="scissor" and comp=="paper"):  # all possivle conditons to make us win
+    print("you win")
+  else:
+    print(" computer wins")
+
+
+import numpy as np # mathmatical 
+import pandas as pd # 
+import random # 1-10 any  number from specific range
+# game where user need to guess the number 1-100 
+
+nums=random.randint(1,100)
+# how many tries
+tries=0
+print("Guess the number from 1-100 ! ")
+
+while True:
+  guess = int(input("Enter your guess  "))   # typecasting
+  tries=tries+1
+  # logic behind it 
+
+  if guess<nums:
+    print('it is too low ')
+  elif  guess>nums:                               # else+if=elif
+    print("its too high")
+
+  else:
+    print(f"yeah! great you just guessed it correct in {tries} tries")
 class Parrot: # parent
   #attributes
   specie="Birds"
