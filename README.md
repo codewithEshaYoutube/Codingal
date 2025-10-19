@@ -59,11 +59,8 @@ Through this journey, I gained invaluable personal and professional growth:
 
 ---
 
-## 🖼️ Teaching Snapshots  
 
-## 🖼️ Teaching Snapshots  
-
-## 🖼️ Teaching Portfolio Highlights
+# 🖼️ Teaching Portfolio Highlights
 
 ### 📊 Teaching Dashboard
 ![Dashboard](teacher-dashboard.png)
@@ -85,6 +82,10 @@ Through this journey, I gained invaluable personal and professional growth:
 
 ### 🌍 International Students – Sweden Spotlight
 ![Sweden Students](student-from-sweden.png)
+
+### 💬 Student Feedback
+![Student Feedback](student_feedback.png)
+
 
 
 ## 🔗 Connect with Me
