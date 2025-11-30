@@ -7,8 +7,8 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-- 🧠 Delivered **600+ hours** of live instruction in **Python, Data Structures, AI, and Data Science**.  
-- 🌍 Mentored **171+ international K–12 students** from diverse countries:  
+- 🧠 Delivered **900+ hours** of live instruction in **Python, Data Structures, AI, and Data Science**.  
+- 🌍 Mentored **250+ international K–12 students** from diverse countries:  
   🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
 - 🎯 Designed and delivered **project-based, interactive lessons** that simplify complex STEM topics.  
 - 🌟 Achieved a **4.7/5 student satisfaction rating**, reflecting strong student and parent feedback.  
@@ -24,17 +24,37 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 - Loops: For Loops, While Loops, Break & Continue  
 - Functions: Parameters, Return Values, Recursion  
 - Modules & Packages (`math`, `random`, Custom Modules)  
+- Object-Oriented Programming (Classes, Inheritance, Polymorphism)  
 
 ### 🧩 Data Structures & Algorithms
 - Lists, Tuples, Dictionaries  
 - Stacks, Queues, Linked Lists  
 - Problem-Solving & Algorithmic Thinking  
 - Complexity Basics & Recursion  
+- Algorithm Design for Real-World Applications  
 
-### 🤖 Data Science & AI Foundations
-- Data Handling in Python  
-- Intro to Machine Learning & AI Concepts  
-- Project-based applications for real-world problem solving  
+### 📊 Data Science & AI Implementation
+- Data Handling, Cleaning, and Preprocessing in Python  
+- Exploratory Data Analysis & Visualization  
+- **Advanced Machine Learning**: Supervised & Unsupervised Learning  
+- **Deep Learning Models**: CNNs, ANN, RNNs  
+- **Recommendation Systems**: Collaborative & Content-Based Filtering  
+- **Model Deployment & End-to-End AI Projects**  
+- Hands-on reasoning, feature engineering, model evaluation, and real-world project solutions  
+
+### 🤖 AI Foundations & Artificial Intelligence Specialization
+- Fundamentals of AI and reasoning  
+- Problem-solving with AI algorithms  
+- Neural Networks, Deep Learning, and AI model design  
+- Practical AI projects demonstrating **advanced decision-making and reasoning**  
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript fundamentals  
+- Front-End Frameworks and Responsive Design  
+- Back-End Integration with Python (Flask/FastAPI)  
+- Database Handling & API Development  
+- Full-Stack Project Implementation: From concept to deployment  
+
 
 ---
 
@@ -86,6 +106,7 @@ Through this journey, I gained invaluable personal and professional growth:
 ### 💬 Student Feedback
 ![Student Feedback](student_feedback.png)
 
+For a full list of my **international teaching recordings**, [click here to view the recordings portfolio](https://github.com/codewithEshaYoutube/Codingal/blob/main/recordings.md).
 
 
 ## 🔗 Connect with Me
