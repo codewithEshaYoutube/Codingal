@@ -6,13 +6,14 @@ This repository showcases my **international teaching portfolio** in advanced pr
 
 ## 📊 Key Achievements
 
-- **900+ hours of teaching** delivered to **250+ international students**.  
-- Expertise in **Advanced Data Science & AI Implementation**, including **Deep Learning, CNNs, ANN, and Recommendation Systems**.  
-- Specialized courses in **Python for AI**, **Object-Oriented Programming**, and **Game Development**.  
-- Global impact across **Europe, Asia, Middle East, Africa, and Oceania**.  
-- Developed **practical, project-based sessions** to equip students with **industry-ready skills**.  
-
----
+- Delivered **900+ hours of teaching** to **250+ international students** across multiple continents.  
+- Taught learners from **diverse cultures and countries**, strengthening cultural adaptability and global teaching effectiveness.  
+- Developed strong **patience and rapport** while managing student learning needs and engaging effectively with parents.  
+- Improved **communication skills** through consistent interaction with global families and multicultural classrooms.  
+- Expertise in **Advanced Data Science & AI**, including **Deep Learning, CNNs, ANNs, NLP, and Recommendation Systems**.  
+- Conducted specialized courses in **Python for AI**, **Object-Oriented Programming**, and **Game Development**.  
+- Impact across **Europe, Asia, the Middle East, Africa, and Oceania**.  
+- Designed **practical, project-based learning experiences** to build **industry-ready skills** in students.  
 
 ## 📚 Recordings by Country & Topic
 
