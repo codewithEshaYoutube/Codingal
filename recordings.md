@@ -19,7 +19,7 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | Country       | Recording Link | Instructor | Topic |
 |---------------|----------------|--------|-------|
 | Sweden        | [OOP-Python](https://drive.google.com/file/d/1a0sqtZWAZVwqODbdU5CIp4BK3T3f5gv7/view?usp=sharing) | Eesha Tariq | Object-Oriented Programming & Python |
-| United Kingdom| [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts & Implementation |
+| United Kingdom| [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts &  NLP Implementation |
 | Australia     | [AI Applications](https://drive.google.com/file/d/15LHp0cpUx9XpQZQ4ldw9M6aul8jfyiu3/view?usp=sharing) | Eesha Tariq | Advanced AI Applications |
 | Australia     | [Advanced Python Game Building](https://drive.google.com/file/d/12-Y1ot_gEALG-mcO_KpgiG_ljfs5_XUm/view?usp=sharing) | Eesha Tariq | Game Development & Python |
 | Oman & Qatar  | [Game Development](https://drive.google.com/file/d/1xVNZVFF-YVdtDMEgT2ADVAJf76rz9iPi/view?usp=sharing) | Eesha Tariq | Full-Stack Game Development |
