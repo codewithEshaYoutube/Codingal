@@ -7,12 +7,28 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-- 🧠 Delivered **900+ hours** of live instruction in **Python, Data Structures, AI, and Data Science**.  
+- 🧠 Delivered **~950 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
 - 🌍 Mentored **250+ international K–12 students** from diverse countries:  
   🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
 - 🎯 Designed and delivered **project-based, interactive lessons** that simplify complex STEM topics.  
 - 🌟 Achieved a **4.7/5 student satisfaction rating**, reflecting strong student and parent feedback.  
 - 🏆 Built an inclusive learning environment fostering **critical thinking, creativity, and coding excellence**.  
+
+---
+
+## 📅 Monthly Teaching Structure (June–December 2025)
+
+| Month      | Hours Taught | No. of Live Classes | Notes                                |
+|------------|--------------|-------------------|--------------------------------------|
+| June       | 142 hrs      | —                 | Python, Basics + Projects             |
+| July       | 135 hrs      | —                 | Data Structures Foundations           |
+| August     | 144 hrs      | —                 | Python OOP + DS Improvement           |
+| September  | 143 hrs      | —                 | AI Basics + ML Mini Projects          |
+| October    | 135 hrs      | —                 | Web + Python + Logic Building         |
+| November   | 98 hrs       | —                 | Reduced due to schedule shifts        |
+| December   | 100 hrs      | —                 | Wrap-up & Student Projects            |
+| **Makeup Classes** | **50 hrs** | —           | Extra/rescheduled sessions            |
+| **Total**  | **~950 hrs** | **400+ classes**  | Overall Instruction Delivered         |
 
 ---
 
@@ -55,13 +71,12 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 - Database Handling & API Development  
 - Full-Stack Project Implementation: From concept to deployment  
 
-
 ---
 
 ## ✨ Highlights
 
 - ✅ Selected as a **Global Instructor** at **Codingal (YC W21)**.  
-- ⭐ Delivered **600+ hours of coding education** with a **4.7/5 teaching rating**.  
+- ⭐ Delivered **~950 hours of coding education** with a **4.7/5 teaching rating**.  
 - 👩‍🏫 Taught **Python, Data Structures, and Data Science/AI basics** to global K–12 learners.  
 - 🎓 Helped students develop strong **computational thinking and analytical skills**.  
 
@@ -78,7 +93,6 @@ Through this journey, I gained invaluable personal and professional growth:
 - 🔄 **Consistency** — strengthened my discipline by delivering hours of live teaching daily, improving reliability and clarity in knowledge transfer.  
 
 ---
-
 
 # 🖼️ Teaching Portfolio Highlights
 
@@ -108,6 +122,7 @@ Through this journey, I gained invaluable personal and professional growth:
 
 For a full list of my **international teaching recordings**, [click here to view the recordings portfolio](https://github.com/codewithEshaYoutube/Codingal/blob/main/recordings.md).
 
+---
 
 ## 🔗 Connect with Me
 
