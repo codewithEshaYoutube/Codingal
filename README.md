@@ -120,7 +120,6 @@ Through this journey, I gained invaluable personal and professional growth:
 ### 💬 Student Feedback
 ![Student Feedback](student_feedback.png)
 
-For a full list of my **international teaching recordings**, [click here to view the recordings portfolio](https://github.com/codewithEshaYoutube/Codingal/blob/main/recordings.md).
 
 ---
 
