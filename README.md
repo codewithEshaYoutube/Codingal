@@ -31,6 +31,8 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 | **Total**  | **~950 hrs** | **400+ classes**  | Overall Instruction Delivered         |
 
 ---
+For a full list of my **international teaching recordings**, [click here to view the recordings portfolio](https://github.com/codewithEshaYoutube/Codingal/blob/main/recordings.md).
+
 
 ## 🧠 Subjects & Skills Taught
 
