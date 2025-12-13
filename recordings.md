@@ -6,7 +6,7 @@ This repository showcases my **international teaching portfolio** in advanced pr
 
 ## 📊 Key Achievements
 
-- Delivered **900+ hours of teaching** to **250+ international students** across multiple continents.  
+- Delivered **900+ hours of teaching** to **255+ international students** across multiple continents.  
 - Taught learners from **diverse cultures and countries**, strengthening cultural adaptability and global teaching effectiveness.  
 - Developed strong **patience and rapport** while managing student learning needs and engaging effectively with parents.  
 - Improved **communication skills** through consistent interaction with global families and multicultural classrooms.  
@@ -30,7 +30,7 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | United Kingdom| [Recommendation Engine Algorithm](https://drive.google.com/file/d/1XlbUEmfi_5z2Mjg_unPeL4KV6l-JkIG/view?usp=sharing) | Eesha Tariq | Recommendation Systems with Python |
 | United Kingdom| [ANN Implementation in Keras](https://drive.google.com/file/d/1RD0NeMPLggpNTXft1tsBFmYmM5LQc1fv/view?usp=sharing) | Eesha Tariq | Artificial Neural Networks in Keras |
 | Australia     | [Paint Game Coding](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | Python-based Paint Game Development |
-| Australia     | [Pose detection AI_Dog_Trainer](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | AI Teachable Machine Pose detection |
+| Australia     | [Pose detection AI_Dog_Trainer](https://drive.google.com/file/d/18bEH7WZY_y0bu9i7YTQwALih6t3BJC8C/view?usp=sharing) | Eesha Tariq | AI Teachable Machine Pose detection |
 
 
 ---
