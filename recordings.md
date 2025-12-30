@@ -18,9 +18,9 @@ This repository showcases my **international teaching portfolio** in advanced pr
 ## 📚 Recordings by Country & Topic
 
 | Country       | Recording Link | Instructor | Topic |
-|---------------|----------------|--------|-------|
+|---------------|----------------|------------|-------|
 | Sweden        | [OOP-Python](https://drive.google.com/file/d/1a0sqtZWAZVwqODbdU5CIp4BK3T3f5gv7/view?usp=sharing) | Eesha Tariq | Object-Oriented Programming & Python |
-| United Kingdom| [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts &  NLP Implementation |
+| United Kingdom| [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts & NLP Implementation |
 | Australia     | [AI Applications](https://drive.google.com/file/d/15LHp0cpUx9XpQZQ4ldw9M6aul8jfyiu3/view?usp=sharing) | Eesha Tariq | Advanced AI Applications |
 | Australia     | [Advanced Python Game Building](https://drive.google.com/file/d/12-Y1ot_gEALG-mcO_KpgiG_ljfs5_XUm/view?usp=sharing) | Eesha Tariq | Game Development & Python |
 | Oman & Qatar  | [Game Development](https://drive.google.com/file/d/1xVNZVFF-YVdtDMEgT2ADVAJf76rz9iPi/view?usp=sharing) | Eesha Tariq | Full-Stack Game Development |
@@ -31,6 +31,11 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | United Kingdom| [ANN Implementation in Keras](https://drive.google.com/file/d/1RD0NeMPLggpNTXft1tsBFmYmM5LQc1fv/view?usp=sharing) | Eesha Tariq | Artificial Neural Networks in Keras |
 | Australia     | [Paint Game Coding](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | Python-based Paint Game Development |
 | Australia     | [Pose detection AI_Dog_Trainer](https://drive.google.com/file/d/18bEH7WZY_y0bu9i7YTQwALih6t3BJC8C/view?usp=sharing) | Eesha Tariq | AI Teachable Machine Pose detection |
+| UAE           | [Application Programming Interface](https://drive.google.com/file/d/1VVadKtBMYr7yIEuDOJdrKCh27H1iiS5G/view?usp=sharing) | Eesha Tariq | Application Programming Interface Concepts |
+| Qatar         | [Survey Restaurant App](https://drive.google.com/file/d/1hfoKn06DtGyU65aMWBwYn8_HjQBrEqjT/view?usp=sharing) | Eesha Tariq | Survey App Development for Restaurants |
+| Australia     | [Machine Learning Project](https://drive.google.com/file/d/1l058ibFLp9cIXytRhRmlA-USAVMOKwg4/view?usp=sharing) | Eesha Tariq | Machine Learning Project Implementation |
+| United Kingdom| [Java Basics & Project](https://drive.google.com/file/d/1_cHLs-sr4evHezzxxuet6_ybXgxwNlFU/view?usp=sharing) | Eesha Tariq | Java Fundamentals & Project Work |
+
 
 
 ---
