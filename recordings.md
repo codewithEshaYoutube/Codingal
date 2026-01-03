@@ -35,6 +35,8 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | Qatar         | [Survey Restaurant App](https://drive.google.com/file/d/1hfoKn06DtGyU65aMWBwYn8_HjQBrEqjT/view?usp=sharing) | Eesha Tariq | Survey App Development for Restaurants |
 | Australia     | [Machine Learning Project](https://drive.google.com/file/d/1l058ibFLp9cIXytRhRmlA-USAVMOKwg4/view?usp=sharing) | Eesha Tariq | Machine Learning Project Implementation |
 | United Kingdom| [Java Basics & Project](https://drive.google.com/file/d/1_cHLs-sr4evHezzxxuet6_ybXgxwNlFU/view?usp=sharing) | Eesha Tariq | Java Fundamentals & Project Work |
+| United Kingdom| [Operators and Methods in Java](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Type of Operators , Logical Understanding |
+
 
 
 
