@@ -40,8 +40,6 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | United Kingdom| [Operators and Methods in Java](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Type of Operators , Logical Understanding |
 | United Kingdom| [Polymorphism in Java](https://drive.google.com/file/d/1roYSM_tVzBH0TDns-SVYyKCUzmAgKDig/view?usp=sharing) | Eesha Tariq | getter and setter functions |
 | United Kingdom| [Access Modifiers, Overriding, Overloading](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | In Depth Concepts |
-
-
 | Oman           | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq   | Sign Language Learning & Communication Application |
 
 
