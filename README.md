@@ -7,7 +7,7 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-- 🧠 Delivered **~950 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
+- 🧠 Delivered **~1200 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
 - 🌍 Mentored **250+ international K–12 students** from diverse countries:  
   🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
 - 🎯 Designed and delivered **project-based, interactive lessons** that simplify complex STEM topics.  
@@ -17,20 +17,20 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 ---
 
 ## 📅 Monthly Teaching Structure (June–December 2025)
+| Month               | Hours Taught | No. of Live Classes | Notes                                      |
+|--------------------|-------------|--------------------|--------------------------------------------|
+| June               | 142 hrs     | —                  | Python, Basics + Projects                  |
+| July               | 135 hrs     | —                  | Data Structures Foundations                |
+| August             | 144 hrs     | —                  | Python OOP + DS Improvement                |
+| September          | 143 hrs     | —                  | AI Basics + ML Mini Projects               |
+| October            | 135 hrs     | —                  | Web + Python + Logic Building              |
+| November           | 98 hrs      | —                  | Reduced due to schedule shifts             |
+| December           | 100 hrs     | —                  | Wrap-up & Student Projects                 |
+| January            | 80 hrs      | —                  | Java + Android Development                 |
+| February           | 82 hrs      | —                  | Java + Android Development                 |
+| **Makeup Classes** | **50 hrs**  | —                  | Extra/rescheduled sessions                 |
+| **Total**          | **~1,187 hrs** | **600+ classes** | **500+ students trained**                  |
 
-| Month      | Hours Taught | No. of Live Classes | Notes                                |
-|------------|--------------|-------------------|--------------------------------------|
-| June       | 142 hrs      | —                 | Python, Basics + Projects             |
-| July       | 135 hrs      | —                 | Data Structures Foundations           |
-| August     | 144 hrs      | —                 | Python OOP + DS Improvement           |
-| September  | 143 hrs      | —                 | AI Basics + ML Mini Projects          |
-| October    | 135 hrs      | —                 | Web + Python + Logic Building         |
-| November   | 98 hrs       | —                 | Reduced due to schedule shifts        |
-| December   | 100 hrs      | —                 | Wrap-up & Student Projects            |
-| **Makeup Classes** | **50 hrs** | —           | Extra/rescheduled sessions            |
-| **Total**  | **~950 hrs** | **400+ classes**  | Overall Instruction Delivered         |
-
----
 
 
 ## 🧠 Subjects & Skills Taught
