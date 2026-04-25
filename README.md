@@ -1,4 +1,4 @@
-# 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21)
+ # 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21)
 
 Welcome to my **Codingal Teaching Portfolio** — I'm Eesha Tariq, a passionate Tech Trainer and Software Engineer selected as a **Global Instructor at [Codingal](https://www.codingal.com)**, a Y Combinator-funded EdTech platform (YC W21).  
 I specialize in teaching **Python, Data Structures, Data Science, and Artificial Intelligence** to K–12 students worldwide.  
