@@ -16,20 +16,28 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ---
 
-## 📅 Monthly Teaching Structure (June–December 2025)
+## 📅 Monthly Teaching Structure (June 2025 – May 2026)
+
 | Month               | Hours Taught | No. of Live Classes | Notes                                      |
 |--------------------|-------------|--------------------|--------------------------------------------|
-| June               | 142 hrs     | —                  | Python, Basics + Projects                  |
-| July               | 135 hrs     | —                  | Data Structures Foundations                |
-| August             | 144 hrs     | —                  | Python OOP + DS Improvement                |
-| September          | 143 hrs     | —                  | AI Basics + ML Mini Projects               |
-| October            | 135 hrs     | —                  | Web + Python + Logic Building              |
-| November           | 98 hrs      | —                  | Reduced due to schedule shifts             |
-| December           | 100 hrs     | —                  | Wrap-up & Student Projects                 |
-| January            | 80 hrs      | —                  | Java + Android Development                 |
-| February           | 82 hrs      | —                  | Java + Android Development                 |
+| June 2025          | 142 hrs     | —                  | Python, Basics + Projects                  |
+| July 2025          | 135 hrs     | —                  | Data Structures Foundations                |
+| August 2025        | 144 hrs     | —                  | Python OOP + DS Improvement                |
+| September 2025     | 143 hrs     | —                  | AI Basics + ML Mini Projects               |
+| October 2025       | 135 hrs     | —                  | Web + Python + Logic Building              |
+| November 2025      | 98 hrs      | —                  | Reduced due to schedule shifts             |
+| December 2025      | 100 hrs     | —                  | Wrap-up & Student Projects                 |
+| January 2026       | 80 hrs      | —                  | Java + Android Development                |
+| February 2026     | 82 hrs      | —                  | Java + Android Development                |
+| March 2026         | 100 hrs     | —                  | Continued Advanced Practice                |
+| April 2026         | 100 hrs     | —                  | iOS / Android Projects + Revision          |
+| May 2026           | 100 hrs     | —                  | Final Consolidation                        |
 | **Makeup Classes** | **50 hrs**  | —                  | Extra/rescheduled sessions                 |
-| **Total**          | **~1,187 hrs** | **600+ classes** | **500+ students trained**                  |
+
+### 📊 Summary
+- **Total Hours:** ~1,409 hrs  
+- **Live Classes:** 600+  
+- **Students Trained:** 500+  
 
 
 # 🌐 International Teaching Recordings
