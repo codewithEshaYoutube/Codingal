@@ -75,6 +75,8 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | United Kingdom| [Polymorphism in Java](https://drive.google.com/file/d/1roYSM_tVzBH0TDns-SVYyKCUzmAgKDig/view?usp=sharing) | Eesha Tariq | getter and setter functions |
 | United Kingdom| [Access Modifiers, Overriding, Overloading](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | In Depth Concepts |
 | Oman           | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq   | Sign Language Learning & Communication Application |
+| Pakistan         | [HTML Course and Basics](https://drive.google.com/file/d/1eHenH9mTOJUxy7yUgLIuP_J4Qj2TbepQ/view?usp=sharing) | Eesha Tariq   | HTML Course and Basics |
+
 
 
 ---
