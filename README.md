@@ -59,32 +59,30 @@ This repository showcases my **international teaching portfolio** in advanced pr
 
 ## 📚 Recordings by Country & Topic
 
-| Country       | Recording Link | Instructor | Topic |
-|---------------|----------------|------------|-------|
-| Sweden        | [OOP-Python](https://drive.google.com/file/d/1a0sqtZWAZVwqODbdU5CIp4BK3T3f5gv7/view?usp=sharing) | Eesha Tariq | Object-Oriented Programming & Python |
-| United Kingdom| [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts & NLP Implementation |
-| Australia     | [AI Applications](https://drive.google.com/file/d/15LHp0cpUx9XpQZQ4ldw9M6aul8jfyiu3/view?usp=sharing) | Eesha Tariq | Advanced AI Applications |
-| Australia     | [Advanced Python Game Building](https://drive.google.com/file/d/12-Y1ot_gEALG-mcO_KpgiG_ljfs5_XUm/view?usp=sharing) | Eesha Tariq | Game Development & Python |
-| Oman & Qatar  | [Game Development](https://drive.google.com/file/d/1xVNZVFF-YVdtDMEgT2ADVAJf76rz9iPi/view?usp=sharing) | Eesha Tariq | Full-Stack Game Development |
-| Dubai, India & Nigeria | [Digit Recognizer CNN AI](https://drive.google.com/file/d/1GJWdWF42oIHtMI7wos-WFy3kkOlDjV0A/view?usp=sharing) | Eesha Tariq | CNN for Digit Recognition |
-| United Kingdom| [Image Classifier CNN AI](https://drive.google.com/file/d/1b_40f83MUSnkTqvSeIYeTQl-FsBRaRy7/view?usp=sharing) | Eesha Tariq | Image Classification using CNN |
-| Pakistan      | [Interlinking in Coding](https://drive.google.com/file/d/1r1pbTazSRGEURx3x43yAAe9-TPVGnJF4/view?usp=sharing) | Eesha Tariq | Advanced Coding Techniques |
-| United Kingdom| [Recommendation Engine Algorithm](https://drive.google.com/file/d/1XlbUEmfi_5z2Mjg_unPeL4KV6l-JkIG/view?usp=sharing) | Eesha Tariq | Recommendation Systems with Python |
-| United Kingdom| [ANN Implementation in Keras](https://drive.google.com/file/d/1RD0NeMPLggpNTXft1tsBFmYmM5LQc1fv/view?usp=sharing) | Eesha Tariq | Artificial Neural Networks in Keras |
-| Australia     | [Paint Game Coding](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | Python-based Paint Game Development |
-| Australia     | [Pose detection AI_Dog_Trainer](https://drive.google.com/file/d/18bEH7WZY_y0bu9i7YTQwALih6t3BJC8C/view?usp=sharing) | Eesha Tariq | AI Teachable Machine Pose detection |
-| UAE           | [Application Programming Interface](https://drive.google.com/file/d/1VVadKtBMYr7yIEuDOJdrKCh27H1iiS5G/view?usp=sharing) | Eesha Tariq | Application Programming Interface Concepts |
-| Qatar         | [Survey Restaurant App](https://drive.google.com/file/d/1hfoKn06DtGyU65aMWBwYn8_HjQBrEqjT/view?usp=sharing) | Eesha Tariq | Survey App Development for Restaurants |
-| Australia     | [Machine Learning Project](https://drive.google.com/file/d/1l058ibFLp9cIXytRhRmlA-USAVMOKwg4/view?usp=sharing) | Eesha Tariq | Machine Learning Project Implementation |
-| United Kingdom| [Java Basics & Project](https://drive.google.com/file/d/1_cHLs-sr4evHezzxxuet6_ybXgxwNlFU/view?usp=sharing) | Eesha Tariq | Java Fundamentals & Project Work |
-| United Kingdom| [Operators and Methods in Java](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Type of Operators , Logical Understanding |
-| United Kingdom| [Operators and Methods in Java](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Type of Operators , Logical Understanding |
-| United Kingdom| [Polymorphism in Java](https://drive.google.com/file/d/1roYSM_tVzBH0TDns-SVYyKCUzmAgKDig/view?usp=sharing) | Eesha Tariq | getter and setter functions |
-| Pakistan         | [Internet Security](https://drive.google.com/file/d/14YtTe0NBmwHIWJ1ScN7uJJN-3-e6eGqm/view?usp=sharing) | Eesha Tariq   | Internet Security |
-
-| United Kingdom| [Access Modifiers, Overriding, Overloading](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | In Depth Concepts |
-| Oman           | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq   | Sign Language Learning & Communication Application |
-| Pakistan         | [HTML Course and Basics](https://drive.google.com/file/d/1eHenH9mTOJUxy7yUgLIuP_J4Qj2TbepQ/view?usp=sharing) | Eesha Tariq   | HTML Course and Basics |
+| # | Country | Recording Link | Instructor | Topic |
+|---|--------|----------------|------------|-------|
+| 1 | Sweden | [OOP-Python](https://drive.google.com/file/d/1a0sqtZWAZVwqODbdU5CIp4BK3T3f5gv7/view?usp=sharing) | Eesha Tariq | Object-Oriented Programming & Python |
+| 2 | United Kingdom | [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts & NLP Implementation |
+| 3 | Australia | [AI Applications](https://drive.google.com/file/d/15LHp0cpUx9XpQZQ4ldw9M6aul8jfyiu3/view?usp=sharing) | Eesha Tariq | Advanced AI Applications |
+| 4 | Australia | [Advanced Python Game Building](https://drive.google.com/file/d/12-Y1ot_gEALG-mcO_KpgiG_ljfs5_XUm/view?usp=sharing) | Eesha Tariq | Game Development & Python |
+| 5 | Oman & Qatar | [Game Development](https://drive.google.com/file/d/1xVNZVFF-YVdtDMEgT2ADVAJf76rz9iPi/view?usp=sharing) | Eesha Tariq | Full-Stack Game Development |
+| 6 | Dubai, India & Nigeria | [Digit Recognizer CNN AI](https://drive.google.com/file/d/1GJWdWF42oIHtMI7wos-WFy3kkOlDjV0A/view?usp=sharing) | Eesha Tariq | CNN for Digit Recognition |
+| 7 | United Kingdom | [Image Classifier CNN AI](https://drive.google.com/file/d/1b_40f83MUSnkTqvSeIYeTQl-FsBRaRy7/view?usp=sharing) | Eesha Tariq | Image Classification using CNN |
+| 8 | Pakistan | [Interlinking in Coding](https://drive.google.com/file/d/1r1pbTazSRGEURx3x43yAAe9-TPVGnJF4/view?usp=sharing) | Eesha Tariq | Advanced Coding Techniques |
+| 9 | United Kingdom | [Recommendation Engine Algorithm](https://drive.google.com/file/d/1XlbUEmfi_5z2Mjg_unPeL4KV6l-JkIG/view?usp=sharing) | Eesha Tariq | Recommendation Systems with Python |
+| 10 | United Kingdom | [ANN Implementation in Keras](https://drive.google.com/file/d/1RD0NeMPLggpNTXft1tsBFmYmM5LQc1fv/view?usp=sharing) | Eesha Tariq | Artificial Neural Networks in Keras |
+| 11 | Australia | [Paint Game Coding](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | Python-based Paint Game Development |
+| 12 | Australia | [Pose Detection AI Dog Trainer](https://drive.google.com/file/d/18bEH7WZY_y0bu9i7YTQwALih6t3BJC8C/view?usp=sharing) | Eesha Tariq | AI Pose Detection (Teachable Machine) |
+| 13 | UAE | [API Concepts](https://drive.google.com/file/d/1VVadKtBMYr7yIEuDOJdrKCh27H1iiS5G/view?usp=sharing) | Eesha Tariq | Application Programming Interface Concepts |
+| 14 | Qatar | [Survey Restaurant App](https://drive.google.com/file/d/1hfoKn06DtGyU65aMWBwYn8_HjQBrEqjT/view?usp=sharing) | Eesha Tariq | Survey App Development |
+| 15 | Australia | [Machine Learning Project](https://drive.google.com/file/d/1l058ibFLp9cIXytRhRmlA-USAVMOKwg4/view?usp=sharing) | Eesha Tariq | Machine Learning Implementation |
+| 16 | United Kingdom | [Java Basics & Project](https://drive.google.com/file/d/1_cHLs-sr4evHezzxxuet6_ybXgxwNlFU/view?usp=sharing) | Eesha Tariq | Java Fundamentals |
+| 17 | United Kingdom | [Java Operators & Methods](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Operators & Logical Concepts |
+| 18 | United Kingdom | [Polymorphism in Java](https://drive.google.com/file/d/1roYSM_tVzBH0TDns-SVYyKCUzmAgKDig/view?usp=sharing) | Eesha Tariq | OOP Concepts (Getter/Setter) |
+| 19 | Pakistan | [Internet Security](https://drive.google.com/file/d/14YtTe0NBmwHIWJ1ScN7uJJN-3-e6eGqm/view?usp=sharing) | Eesha Tariq | Cybersecurity Basics |
+| 20 | United Kingdom | [Access Modifiers & Overriding](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | Advanced Java OOP Concepts |
+| 21 | Oman | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq | Accessibility Application |
+| 22 | Pakistan | [HTML Course](https://drive.google.com/file/d/1eHenH9mTOJUxy7yUgLIuP_J4Qj2TbepQ/view?usp=sharing) | Eesha Tariq | Web Development Basics |
 
 
 
