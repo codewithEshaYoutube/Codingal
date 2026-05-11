@@ -30,7 +30,7 @@ class Main{
         "multiplication of a & b =" + (a*b)+
         "division of a & b ="+ (a/b)+
         "remainder of a & b ="+(a%b));
-        
+         
         System.out.println();
         
     }
