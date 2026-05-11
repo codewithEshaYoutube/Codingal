@@ -1,4 +1,4 @@
-# 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21)
+  # 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21)
 
 Welcome to my **Codingal Teaching Portfolio** — I'm Eesha Tariq, a passionate Tech Trainer and Software Engineer selected as a **Global Instructor at [Codingal](https://www.codingal.com)**, a Y Combinator-funded EdTech platform (YC W21).  
 I specialize in teaching **Python, Data Structures, Data Science, and Artificial Intelligence** to K–12 students worldwide.  
@@ -7,7 +7,7 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-- 🧠 Delivered **~950 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
+- 🧠 Delivered **~1200 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
 - 🌍 Mentored **250+ international K–12 students** from diverse countries:  
   🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
 - 🎯 Designed and delivered **project-based, interactive lessons** that simplify complex STEM topics.  
@@ -16,23 +16,101 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ---
 
-## 📅 Monthly Teaching Structure (June–December 2025)
+## 📅 Monthly Teaching Structure (June 2025 – May 2026)
 
-| Month      | Hours Taught | No. of Live Classes | Notes                                |
-|------------|--------------|-------------------|--------------------------------------|
-| June       | 142 hrs      | —                 | Python, Basics + Projects             |
-| July       | 135 hrs      | —                 | Data Structures Foundations           |
-| August     | 144 hrs      | —                 | Python OOP + DS Improvement           |
-| September  | 143 hrs      | —                 | AI Basics + ML Mini Projects          |
-| October    | 135 hrs      | —                 | Web + Python + Logic Building         |
-| November   | 98 hrs       | —                 | Reduced due to schedule shifts        |
-| December   | 100 hrs      | —                 | Wrap-up & Student Projects            |
-| **Makeup Classes** | **50 hrs** | —           | Extra/rescheduled sessions            |
-| **Total**  | **~950 hrs** | **400+ classes**  | Overall Instruction Delivered         |
+| Month               | Hours Taught | No. of Live Classes | Notes                                      |
+|--------------------|-------------|--------------------|--------------------------------------------|
+| June 2025          | 142 hrs     | —                  | Python, Basics + Projects                  |
+| July 2025          | 135 hrs     | —                  | Data Structures Foundations                |
+| August 2025        | 144 hrs     | —                  | Python OOP + DS Improvement                |
+| September 2025     | 143 hrs     | —                  | AI Basics + ML Mini Projects               |
+| October 2025       | 135 hrs     | —                  | Web + Python + Logic Building              |
+| November 2025      | 98 hrs      | —                  | Reduced due to schedule shifts             |
+| December 2025      | 100 hrs     | —                  | Wrap-up & Student Projects                 |
+| January 2026       | 80 hrs      | —                  | Java + Android Development                |
+| February 2026     | 82 hrs      | —                  | Java + Android Development                |
+| March 2026         | 100 hrs     | —                  | Continued Advanced Practice                |
+| April 2026         | 100 hrs     | —                  | iOS / Android Projects + Revision          |
+| May 2026           | 100 hrs     | —                  | Final Consolidation                        |
+| **Makeup Classes** | **50 hrs**  | —                  | Extra/rescheduled sessions                 |
+
+### 📊 Summary
+- **Total Hours:** ~1,409 hrs  
+- **Live Classes:** 600+  
+- **Students Trained:** 500+  
+
+
+# 🌐 International Teaching Recordings
+
+This repository showcases my **international teaching portfolio** in advanced programming, AI, Data Science, and Game Development. It reflects my ability to teach complex technical concepts to a **global audience**, blending theoretical understanding with **hands-on project-based learning**.
 
 ---
-For a full list of my **international teaching recordings**, [click here to view the recordings portfolio](https://github.com/codewithEshaYoutube/Codingal/blob/main/recordings.md).
 
+## 📊 Key Achievements
+
+- Delivered **900+ hours of teaching** to **255+ international students** across multiple continents.  
+- Taught learners from **diverse cultures and countries**, strengthening cultural adaptability and global teaching effectiveness.  
+- Developed strong **patience and rapport** while managing student learning needs and engaging effectively with parents.  
+- Improved **communication skills** through consistent interaction with global families and multicultural classrooms.  
+- Expertise in **Advanced Data Science & AI**, including **Deep Learning, CNNs, ANNs, NLP, and Recommendation Systems**.  
+- Conducted specialized courses in **Python for AI**, **Object-Oriented Programming**, and **Game Development**.  
+- Impact across **Europe, Asia, the Middle East, Africa, and Oceania**.  
+- Designed **practical, project-based learning experiences** to build **industry-ready skills** in students.  
+
+## 📚 Recordings by Country & Topic
+
+| # | Country | Recording Link | Instructor | Topic |
+|---|--------|----------------|------------|-------|
+| 1 | Sweden | [OOP-Python](https://drive.google.com/file/d/1a0sqtZWAZVwqODbdU5CIp4BK3T3f5gv7/view?usp=sharing) | Eesha Tariq | Object-Oriented Programming & Python |
+| 2 | United Kingdom | [Data Science](https://drive.google.com/file/d/1rYYCb2wCP0KZq_Xpx2dGGT35WaMVAfIq/view?usp=sharing) | Eesha Tariq | Data Science Concepts & NLP Implementation |
+| 3 | Australia | [AI Applications](https://drive.google.com/file/d/15LHp0cpUx9XpQZQ4ldw9M6aul8jfyiu3/view?usp=sharing) | Eesha Tariq | Advanced AI Applications |
+| 4 | Australia | [Advanced Python Game Building](https://drive.google.com/file/d/12-Y1ot_gEALG-mcO_KpgiG_ljfs5_XUm/view?usp=sharing) | Eesha Tariq | Game Development & Python |
+| 5 | Oman & Qatar | [Game Development](https://drive.google.com/file/d/1xVNZVFF-YVdtDMEgT2ADVAJf76rz9iPi/view?usp=sharing) | Eesha Tariq | Full-Stack Game Development |
+| 6 | Dubai, India & Nigeria | [Digit Recognizer CNN AI](https://drive.google.com/file/d/1GJWdWF42oIHtMI7wos-WFy3kkOlDjV0A/view?usp=sharing) | Eesha Tariq | CNN for Digit Recognition |
+| 7 | United Kingdom | [Image Classifier CNN AI](https://drive.google.com/file/d/1b_40f83MUSnkTqvSeIYeTQl-FsBRaRy7/view?usp=sharing) | Eesha Tariq | Image Classification using CNN |
+| 8 | Pakistan | [Interlinking in Coding](https://drive.google.com/file/d/1r1pbTazSRGEURx3x43yAAe9-TPVGnJF4/view?usp=sharing) | Eesha Tariq | Advanced Coding Techniques |
+| 9 | United Kingdom | [Recommendation Engine Algorithm](https://drive.google.com/file/d/1XlbUEmfi_5z2Mjg_unPeL4KV6l-JkIG/view?usp=sharing) | Eesha Tariq | Recommendation Systems with Python |
+| 10 | United Kingdom | [ANN Implementation in Keras](https://drive.google.com/file/d/1RD0NeMPLggpNTXft1tsBFmYmM5LQc1fv/view?usp=sharing) | Eesha Tariq | Artificial Neural Networks in Keras |
+| 11 | Australia | [Paint Game Coding](https://drive.google.com/file/d/18R08PnFKcW24uHRv6yCG9PUqrpfJk7l8/view?usp=sharing) | Eesha Tariq | Python-based Paint Game Development |
+| 12 | Australia | [Pose Detection AI Dog Trainer](https://drive.google.com/file/d/18bEH7WZY_y0bu9i7YTQwALih6t3BJC8C/view?usp=sharing) | Eesha Tariq | AI Pose Detection (Teachable Machine) |
+| 13 | UAE | [API Concepts](https://drive.google.com/file/d/1VVadKtBMYr7yIEuDOJdrKCh27H1iiS5G/view?usp=sharing) | Eesha Tariq | Application Programming Interface Concepts |
+| 14 | Qatar | [Survey Restaurant App](https://drive.google.com/file/d/1hfoKn06DtGyU65aMWBwYn8_HjQBrEqjT/view?usp=sharing) | Eesha Tariq | Survey App Development |
+| 15 | Australia | [Machine Learning Project](https://drive.google.com/file/d/1l058ibFLp9cIXytRhRmlA-USAVMOKwg4/view?usp=sharing) | Eesha Tariq | Machine Learning Implementation |
+| 16 | United Kingdom | [Java Basics & Project](https://drive.google.com/file/d/1_cHLs-sr4evHezzxxuet6_ybXgxwNlFU/view?usp=sharing) | Eesha Tariq | Java Fundamentals |
+| 17 | United Kingdom | [Java Operators & Methods](https://drive.google.com/file/d/1UCm4cvB1asI_bTfyEaz0UMHOVUAvULyD/view?usp=sharing) | Eesha Tariq | Operators & Logical Concepts |
+| 18 | United Kingdom | [Polymorphism in Java](https://drive.google.com/file/d/1roYSM_tVzBH0TDns-SVYyKCUzmAgKDig/view?usp=sharing) | Eesha Tariq | OOP Concepts (Getter/Setter) |
+| 19 | Pakistan | [Internet Security](https://drive.google.com/file/d/14YtTe0NBmwHIWJ1ScN7uJJN-3-e6eGqm/view?usp=sharing) | Eesha Tariq | Cybersecurity Basics |
+| 20 | United Kingdom | [Access Modifiers & Overriding](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | Advanced Java OOP Concepts |
+| 21 | Oman | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq | Accessibility Application |
+| 22 | Pakistan | [HTML Course](https://drive.google.com/file/d/1eHenH9mTOJUxy7yUgLIuP_J4Qj2TbepQ/view?usp=sharing) | Eesha Tariq | Web Development Basics |
+
+
+
+---
+
+## 🌟 Highlights of Advanced Courses
+
+1. **Advanced Data Science & AI Implementation Course**  
+   - Deep Learning, Neural Networks, CNNs, RNNs, and AI-based Project Implementation.  
+
+2. **Python for AI Course**  
+   - Comprehensive Python programming for AI projects, including ML libraries, data processing, and AI workflows.  
+
+3. **Game Development & Advanced Python Programming**  
+   - Designing interactive games with **OOP**, event-driven programming, and GUI-based applications.  
+
+4. **Practical, Hands-On Projects**  
+   - Every course includes **real-world projects** to ensure students gain **industry-ready skills**.  
+
+---
+
+## 🎯 Purpose
+
+These recordings demonstrate my **international teaching expertise**, **proficiency in advanced AI and Data Science**, and ability to **deliver complex technical concepts** to students from diverse backgrounds. They reflect my **dedication to global education, research-driven teaching, and preparing students for real-world applications**.
+
+---
+
+*Prepared by Eesha Tariq — International Tech Educator, AI Researcher & Curriculum Developer*
 
 ## 🧠 Subjects & Skills Taught
 
