@@ -4,7 +4,7 @@ from io import StringIO
 """
 Activity: Load data, clean it, and do quick analysis
 """
-
+ 
 # -----------------------------
 # Load data
 # -----------------------------
