@@ -1,6 +1,4 @@
-    
- 
- # 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21) 
+# 👩‍🏫 Eesha Tariq — Global Python, Data Structures & AI Instructor @ Codingal (YC W21) 
 
 Welcome to my **Codingal Teaching Portfolio** — I'm Eesha Tariq, a passionate Tech Trainer and Software Engineer selected as a **Global Instructor at [Codingal](https://www.codingal.com)**, a Y Combinator-funded EdTech platform (YC W21).  
 I specialize in teaching **Python, Data Structures, Data Science, and Artificial Intelligence** to K–12 students worldwide.  
@@ -9,18 +7,18 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 
 ### 🚀 Milestone: Global Tech Educator – Codingal YC21
 
-- 🧠 Delivered **~1200 hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June–December 2025).  
-- 🌍 Mentored **250+ international K–12 students** from diverse countries:  
-  🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
+- 🧠 Delivered **~1,500+ hours** of live instruction in **Python, Data Structures, AI, and Data Science** (June 2025 – July 2026).  
+- 🌍 Mentored **800+ international K–12 students** from diverse countries:  
+  🇺🇸 United States 🇨🇦 Canada 🇦🇺 Australia 🇦🇪 UAE 🇶🇦 Qatar 🇬🇧 United Kingdom 🇮🇳 India 🇸🇦 Saudi Arabia 🇮🇩 Indonesia 🇲🇺 Mauritius 🇲🇦 Morocco 🇸🇪 Sweden 🇱🇰 Sri Lanka  
 - 🎯 Designed and delivered **project-based, interactive lessons** that simplify complex STEM topics.  
 - 🌟 Achieved a **4.7/5 student satisfaction rating**, reflecting strong student and parent feedback.  
 - 🏆 Built an inclusive learning environment fostering **critical thinking, creativity, and coding excellence**.  
 
 ---
 
-## 📅 Monthly Teaching Structure (June 2025 – May 2026)
+## 📅 Monthly Teaching Structure (June 2025 – July 2026)
 
-| Month               | Hours Taught | No. of Live Classes | Notes                                      |
+| Month                | Hours Taught | No. of Live Classes | Notes                                      |
 |--------------------|-------------|--------------------|--------------------------------------------|
 | June 2025          | 142 hrs     | —                  | Python, Basics + Projects                  |
 | July 2025          | 135 hrs     | —                  | Data Structures Foundations                |
@@ -29,18 +27,21 @@ I specialize in teaching **Python, Data Structures, Data Science, and Artificial
 | October 2025       | 135 hrs     | —                  | Web + Python + Logic Building              |
 | November 2025      | 98 hrs      | —                  | Reduced due to schedule shifts             |
 | December 2025      | 100 hrs     | —                  | Wrap-up & Student Projects                 |
-| January 2026       | 80 hrs      | —                  | Java + Android Development                |
-| February 2026     | 82 hrs      | —                  | Java + Android Development                |
+| January 2026       | 80 hrs      | —                  | Java + Android Development                 |
+| February 2026      | 82 hrs      | —                  | Java + Android Development                 |
 | March 2026         | 100 hrs     | —                  | Continued Advanced Practice                |
 | April 2026         | 100 hrs     | —                  | iOS / Android Projects + Revision          |
 | May 2026           | 100 hrs     | —                  | Final Consolidation                        |
+| June 2026          | 70 hrs      | —                  | Summer Coding & AI Bootcamps               |
+| July 2026          | 70 hrs      | —                  | Advanced Projects & Capstone Mentoring     |
 | **Makeup Classes** | **50 hrs**  | —                  | Extra/rescheduled sessions                 |
 
 ### 📊 Summary
-- **Total Hours:** ~1,409 hrs  
-- **Live Classes:** 600+  
-- **Students Trained:** 500+  
+- **Total Hours:** ~1,549 hrs  
+- **Live Classes:** 700+  
+- **Students Trained:** 800+  
 
+---
 
 # 🌐 International Teaching Recordings
 
@@ -50,7 +51,7 @@ This repository showcases my **international teaching portfolio** in advanced pr
 
 ## 📊 Key Achievements
 
-- Delivered **900+ hours of teaching** to **255+ international students** across multiple continents.  
+- Delivered **1,500+ hours of teaching** to **800+ international students** across multiple continents.  
 - Taught learners from **diverse cultures and countries**, strengthening cultural adaptability and global teaching effectiveness.  
 - Developed strong **patience and rapport** while managing student learning needs and engaging effectively with parents.  
 - Improved **communication skills** through consistent interaction with global families and multicultural classrooms.  
@@ -85,8 +86,6 @@ This repository showcases my **international teaching portfolio** in advanced pr
 | 20 | United Kingdom | [Access Modifiers & Overriding](https://drive.google.com/file/d/1jcliFDrmxdWesP3HyVXqn-R1dnmdHZ13/view?usp=sharing) | Eesha Tariq | Advanced Java OOP Concepts |
 | 21 | Oman | [Sign Language App](https://drive.google.com/file/d/1UGyDSKdMcd3M7s-4Usxgl0JTh19mIF8J/view?usp=sharing) | Eesha Tariq | Accessibility Application |
 | 22 | Pakistan | [HTML Course](https://drive.google.com/file/d/1eHenH9mTOJUxy7yUgLIuP_J4Qj2TbepQ/view?usp=sharing) | Eesha Tariq | Web Development Basics |
-
-
 
 ---
 
@@ -158,7 +157,7 @@ These recordings demonstrate my **international teaching expertise**, **proficie
 ## ✨ Highlights
 
 - ✅ Selected as a **Global Instructor** at **Codingal (YC W21)**.  
-- ⭐ Delivered **~950 hours of coding education** with a **4.7/5 teaching rating**.  
+- ⭐ Delivered **1,500+ hours of coding education** to **800+ students** with a **4.7/5 teaching rating**.  
 - 👩‍🏫 Taught **Python, Data Structures, and Data Science/AI basics** to global K–12 learners.  
 - 🎓 Helped students develop strong **computational thinking and analytical skills**.  
 
@@ -201,7 +200,6 @@ Through this journey, I gained invaluable personal and professional growth:
 
 ### 💬 Student Feedback
 ![Student Feedback](student_feedback.png)
-
 
 ---
 
